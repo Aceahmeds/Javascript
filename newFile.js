@@ -1,0 +1,2 @@
+butt.addEventListener('click', function () {
+});
